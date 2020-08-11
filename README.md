@@ -6,3 +6,5 @@ Updates made on master on GitHub before rebase
 
 test without rebase
 test with rebase
+
+local change made
