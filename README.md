@@ -7,4 +7,5 @@ Updates made on master on GitHub before rebase
 test without rebase
 test with rebase
 
-local change made
+This is a file that is README
+But local change
